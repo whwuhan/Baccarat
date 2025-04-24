@@ -1,5 +1,5 @@
-import Component.Poker
+from Component.Poker import *
 
 if __name__ == "__main__":
-    p = Component.Poker.Poker()
+    p = Poker()
 
